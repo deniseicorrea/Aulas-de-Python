@@ -1,4 +1,4 @@
-# Aulas de Python
+# Curso de Python
  Exercícios de Python
  ---
 Com meu retorno aos estudos de **Python**, decidi publicar todos exercicios que 
